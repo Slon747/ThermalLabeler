@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/678bca53-784f-46b1-96a3-a2f71b8ca9ec" /># ThermalLabeler
+# ThermalLabeler
 
 **ThermalLabeler** es una utilidad para imprimir etiquetas en impresoras térmicas desde Android sin dependencia de un fabricante específico y sin controladores propietarios.
 
